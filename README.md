@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://media.giphy.com/media/tHrBUDeK2V5QnsdbPy/giphy.gif" width="600" />
+</p>
+<p align="center">Welcome to my Github page.</p>
+
+
+
+
+
+
+
 <!--
 **ubselcuk/ubselcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
