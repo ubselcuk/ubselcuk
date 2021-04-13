@@ -1,7 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/tHrBUDeK2V5QnsdbPy/giphy.gif" width="400" />
 </p>
 <p align="center">Welcome to my Github page.</p>
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/ubselcuk)
 
 
 
