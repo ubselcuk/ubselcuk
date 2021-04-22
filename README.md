@@ -3,8 +3,15 @@
 <p align="center">Welcome to my Github page.</p>
 
 
-[![ubselcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubselcuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+  <a href="https://github.com/ubselcuk"><img src="https://github-readme-stats.vercel.app/api?username=&hide_border=true&show_icons=true&theme=vue" alt="ubselcuk's github stats"></a>
+</p>
+
+
+
+
 
 
 <!--
@@ -22,15 +29,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+[![ubselcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)]()
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)]()
-[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)]()
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)]()
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)]()
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubselcuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -->
