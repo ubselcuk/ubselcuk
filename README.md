@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" width="400" />
+<p align="center"><img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" width="800" />
 </p>
 <p align="center">Welcome to my Github page.</p>
 
