@@ -1,6 +1,6 @@
 
 <p align="center">
-![Alt Text](https://media.giphy.com/media/g8nzG2g4b5oWIOP5AG/giphy.gif)
+![Alt Text]("https://media.giphy.com/media/g8nzG2g4b5oWIOP5AG/giphy.gif")
 </p>
 
 
