@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/g8nzG2g4b5oWIOP5AG/giphy.gif" alt="animated" />
-</p>
-
+<p align="center"><img src="https://media.giphy.com/media/tHrBUDeK2V5QnsdbPy/giphy.gif" width="400" />
 
 
 <p align="center">Welcome to my Github page.</p>
