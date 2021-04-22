@@ -3,7 +3,7 @@
 <p align="center">Welcome to my Github page.</p>
 
 
-
+[![ubselcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubselcuk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
