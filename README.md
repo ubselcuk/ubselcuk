@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/tHrBUDeK2V5QnsdbPy/giphy.gif" width="400" />
+<p align="center"><img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" width="400" />
 </p>
 <p align="center">Welcome to my Github page.</p>
 
@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/ubselcuk"><img src="https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=dark" alt="ubselcuk's github stats"></a>
+  <a href="https://github.com/ubselcuk"><img src="https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=radical" alt="ubselcuk's github stats"></a>
 </p>
 
 
