@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="files/hello.gif" alt="animated" />
+</p>
+
+
+
+
+
+
 <p align="center"><img src="https://media.giphy.com/media/tHrBUDeK2V5QnsdbPy/giphy.gif" width="400" />
 
 
