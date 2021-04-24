@@ -6,11 +6,6 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/ubselcuk"><img src="https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=vue" alt="ubselcuk's github stats"></a>
-</p>
-
-
 
 
 
@@ -28,6 +23,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<p align="center">
+  <a href="https://github.com/ubselcuk"><img src="https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=vue" alt="ubselcuk's github stats"></a>
+</p>
+
+
+
+
 
 
 [![ubselcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubselcuk&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
