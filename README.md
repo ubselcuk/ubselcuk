@@ -3,15 +3,13 @@
 <p align="center">
   <img src="files/hello.gif" alt="animated" width="300" />
 
-  <a href="https://github.com/ubselcuk"><img alt="ubselcuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ubselcuk&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
-
 </p>
 
-
-
-
-
 <!--
+<a href="https://github.com/ubselcuk"><img alt="ubselcuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ubselcuk&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+
+Asude: <3
+
 
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
