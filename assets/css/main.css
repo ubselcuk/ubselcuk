@@ -1,0 +1,171 @@
+body {
+    background-color: #000;
+    margin: 0 auto;
+    padding: 0;
+    font-family: "Source Code Pro", monospace;
+    font-size: 13px;
+    color: #dbdbdb;
+    text-align: justify;
+    line-height: 1.5 !important;
+    width: 90%;
+    max-width: 600px;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 12px !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-size: 12px !important;
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        font-size: 14px !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-size: 14px !important;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 13px;
+    margin: 0px;
+    margin-top: 22px;
+    font-weight: bold;
+    color: #dbdbdb;
+    text-align: center;
+}
+
+p,
+ul,
+ol {
+    margin: 0px;
+    color: #dbdbdb;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: underline;
+    color: #dbdbdb;
+}
+
+a:hover {
+    color: #000;
+    background-color: #dbdbdb;
+}
+
+p {
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
+::selection {
+    background: rgba(219, 219, 219, 0.99);
+    color: #000;
+}
+
+.center {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 200px;
+    border: 1px solid #dbdbdb;
+    outline: none; 
+    background-color: black; 
+    color: #dbdbdb;
+    padding: 4px;
+    margin: 4px;
+    box-sizing: border-box; 
+}
+
+input::placeholder {
+    color: #dbdbdb;
+    opacity: 1;
+}
+
+button {
+    width: 200px;
+    background-color: black; 
+    color: #dbdbdb; 
+    border: 1px solid #dbdbdb;
+    padding: 4px;
+    margin: 4px;
+    cursor: help;
+    box-sizing: border-box; 
+}
+
+button:hover {
+    background-color: white; 
+    color: black;
+}
+
+
+header {
+    margin-top: 25px;
+}
+
+footer {
+    color: #dbdbdb;
+    border-top: dashed 1px rgba(219, 219, 219, 0.9);
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.menu {
+    border-top: dashed 1px rgba(219, 219, 219, 0.9);
+    border-bottom: dashed 1px rgba(219, 219, 219, 0.9);
+    margin-bottom: 25px;
+}
+
+.menu ul {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    text-align: right;
+}
+
+.menu ul li {
+    display: inline;
+    margin-left: 10px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #dbdbdb;
+}
+
+.menu ul li a:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #dbdbdb;
+}
